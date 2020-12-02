@@ -1,0 +1,30 @@
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe.config
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.pdb
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Form1.resources
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Escritorio\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.pdb
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe.config
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.pdb
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Form1.resources
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Documentos\Clases\Tercer Trimestre\Programacion_Avanzada\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.pdb
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe.config
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\bin\Debug\PrimeraAPPForms.pdb
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csprojAssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Form1.resources
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.exe
+C:\Users\hecto\OneDrive\Escritorio\Programacion\PrimeraAPPForms\PrimeraAPPForms\obj\Debug\PrimeraAPPForms.pdb
